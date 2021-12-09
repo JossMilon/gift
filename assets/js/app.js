@@ -5,18 +5,18 @@ const cards = document.querySelectorAll(".memory-card");
 let firstChoice = "";
 let secondChoice = "";
 let listOfCards = [
-  "./assets/images/bigSmile.png",
-  "./assets/images/pissedOff.png",
-  "./assets/images/craze.png",
-  "./assets/images/cool.png",
-  "./assets/images/love.png",
-  "./assets/images/mytho.png",
-  "./assets/images/bigSmile.png",
-  "./assets/images/pissedOff.png",
-  "./assets/images/craze.png",
-  "./assets/images/cool.png",
-  "./assets/images/love.png",
-  "./assets/images/mytho.png",
+  "./assets/images/Jonah.png",
+  "./assets/images/sentence1.png",
+  "./assets/images/sentence2.png",
+  "./assets/images/sentence3.png",
+  "./assets/images/sentence4.png",
+  "./assets/images/sentence5.png",
+  "./assets/images/Jonah.png",
+  "./assets/images/sentence1.png",
+  "./assets/images/sentence2.png",
+  "./assets/images/sentence3.png",
+  "./assets/images/sentence4.png",
+  "./assets/images/sentence5.png",
 ];
 
 //Functions
