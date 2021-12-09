@@ -56,8 +56,8 @@ header p {
 }
 
 .memory-card {
-  width: calc(25% - 10px);
-  height: calc(33.33% - 10px);
+  width: calc(33.33% - 10px);
+  height: calc(25% - 10px);
   margin: 5px;
   position: relative;
   transform: scale(1);
