@@ -83,6 +83,7 @@ header p {
   background-color: lightblue;
   backface-visibility: hidden;
   object-fit: contain;
+  -webkit-backface-visibility: hidden;
 }
 
 .front {
